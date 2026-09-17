@@ -9,7 +9,28 @@ Building Responsive Web Applications & Scalable Backend Systems.
 - 🌐 Connect on [LinkedIn](https://www.linkedin.com/in/manish-kumar-gupta-9690dev)
 
 ---
+### 💡 What I Do
+- 💻 **Frontend Development:** Clean, semantic HTML5, modern CSS3 styling, and interactive JavaScript.
+- ⚙️ **Backend Engineering:** Secure & scalable PHP architectures, RESTful API design.
+- 🗄️ **Database Management:** Relational schema design, optimized SQL queries using MySQL.
+- 🔄 **Version Control:** Clean commits, branching strategies, and collaboration via Git/GitHub.
 
+---
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manish-Kumar-Gupta96&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Kumar-Gupta96&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Live Demo | Repository |
+| :--- | :--- | :---: | :---: |
+| **Agency Admin Dashboard** <br> Database-driven management system with user role controls | `PHP` `MySQL` `JavaScript` `Bootstrap` | [Live Link](#) | [Source Code](https://github.com/Manish-Kumar-Gupta96/PROJECT_REPO_NAME) |
+| **Dynamic Portfolio Website** <br> Fully responsive portfolio with interactive UI components | `HTML5` `CSS3` `JavaScript` | [Live Link](#) | [Source Code](https://github.com/Manish-Kumar-Gupta96/PROJECT_REPO_NAME) |
+| **RESTful API Backend Service** <br> Scalable backend with secure endpoints and query optimization | `PHP` `MySQL` `REST API` | [API Docs](#) | [Source Code](https://github.com/Manish-Kumar-Gupta96/PROJECT_REPO_NAME) |
+---
 ### 🛠️ Tech Stack & Skills
 
 **Frontend Development:**
@@ -25,22 +46,6 @@ Building Responsive Web Applications & Scalable Backend Systems.
 **Tools & Version Control:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manish-Kumar-Gupta96&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Kumar-Gupta96&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
----
-
-### 💡 What I Do
-- 💻 **Frontend Development:** Clean, semantic HTML5, modern CSS3 styling, and interactive JavaScript.
-- ⚙️ **Backend Engineering:** Secure & scalable PHP architectures, RESTful API design.
-- 🗄️ **Database Management:** Relational schema design, optimized SQL queries using MySQL.
-- 🔄 **Version Control:** Clean commits, branching strategies, and collaboration via Git/GitHub.
 
 ---
 
