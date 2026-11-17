@@ -1,124 +1,533 @@
-<div align="center">
+ <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5,6&height=220&section=header&text=Hi%20there,%20I'm%20Manish%20Kumar%20Gupta%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Creative%20UI/UX%20Enthusiast%20%7C%20Open%20Source%20Builder&descFontSize=18&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B18,45:102746,100:087EAD&height=260&section=header&text=MANISH%20KUMAR%20GUPTA&fontSize=42&fontColor=FFFFFF&fontAlignY=37&desc=FULL%20STACK%20WEB%20DEVELOPER%20%20%7C%20%20SOFTWARE%20ENGINEER&descSize=15&descAlignY=57&animation=fadeIn" width="100%" />
 
-  <!-- Animated Typing Tagline -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=650&lines=🚀+Passionate+Full+Stack+Developer;💻+Crafting+High-Performance+Web+Applications;🎨+Pixel-Perfect+UI%2FUX+%26+Interactive+Designs;⚡+Always+Learning+%26+Building+Exciting+Projects" alt="Typing SVG" />
-  </a>
+<br/>
 
-  <br/><br/>
+<a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=I+Build+Modern+Web+Applications;I+Engineer+Scalable+Backend+Systems;I+Create+Digital+Products+That+Matter">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=I+Build+Modern+Web+Applications;I+Engineer+Scalable+Backend+Systems;I+Create+Digital+Products+That+Matter" alt="Developer introduction" />
+</a>
 
-  <!-- Quick Action Badges -->
-  <p align="center">
-    <a href="https://github.com/Manish-Kumar-Gupta96?tab=repositories">
-      <img src="https://img.shields.io/badge/Explore-My%20Repositories-FF5722?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/manish-kumar-gupta-9690dev" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=guptamanish9690@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://github.com/Manish-Kumar-Gupta96">
-      <img src="https://komarev.com/ghpvc/?username=Manish-Kumar-Gupta96&label=Profile%20Views&color=orange&style=for-the-badge" alt="Profile Views" />
-    </a>
-  </p>
-
-</div>
-
----
-
-### 👨‍💻 About Me
-
-```yaml
-name: Manish Kumar Gupta
-role: Full Stack Web Developer & Software Engineer
-passion: Building modern, responsive, and high-performance digital products
-current_focus: Next-gen Web Apps, Full Stack Architectures & AI Integrations
-location: Aligarh, UP, India 🇮🇳
-fun_fact: "I turn caffeine and complex requirements into clean, scalable code ☕✨"
-```
-
-- 📍 **Location:** Aligarh, UP, India
-- 🔭 **Currently Building:** Modern web platforms, e-commerce solutions, and high-conversion client websites.
-- 🌱 **Learning & Exploring:** Modern cloud deployments, microservices architectures, and AI-driven web experiences.
-- 💼 **Available For:** Full-Stack Development Roles, freelance projects, and collaborations.
-- 💬 **Ask Me About:** `HTML/CSS/JS`, `PHP/Laravel`, `React/Vue`, `Python`, `Responsive UI/UX`, and `Database Architecture`.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Frontend Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) |
-| **Backend & APIs** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-
-</div>
-
----
-
-### 🌟 Featured Projects
-
-Here are some of my standout featured projects with source code and live links:
-
-| Project Name | Highlights & Tech Stack | Links |
-| :--- | :--- | :---: |
-| ⚡ **NexusAI — Multimodal AI Studio** | ✦ Frontier AI SaaS Platform & Multimodal Workspace<br>✦ Neural Code Assistant, 4K Diffusion Image Studio & Voice Cloning<br>✦ Real-time API telemetry analytics, custom tokens & developer REST API<br>`HTML5` • `CSS3` • `JavaScript` • `Bootstrap 5` • `Cloudflare Workers` | [📁 Source Code](https://github.com/Manish-Kumar-Gupta96/nexus-ai)<br>[🌐 Live Demo](https://manish-kumar-gupta96.github.io/nexus-ai/) |
-| 🏋️ **FitZone — Gym & Fitness** | ✦ Ultra-premium Dark UI with red/orange neon accents<br>✦ GSAP staggered hero & AOS scroll animations<br>✦ Real-time BMI Calculator, workout schedules & pricing cards<br>`HTML5` • `CSS3` • `JavaScript` • `GSAP` • `Bootstrap 5` | [📁 Source Code](https://github.com/Manish-Kumar-Gupta96/GYM-Fitness)<br>[🌐 Live Demo](https://fitzone-fit.myfitzone.workers.dev/) |
-| 🚀 **Brandora DM — Digital Agency** | ✦ High-conversion Digital Marketing & Creative Agency Portal<br>✦ Case studies showcase, dynamic service matrices & lead capture<br>✦ Modern responsive architecture & interactive transitions<br>`Laravel` • `PHP` • `Bootstrap 5` • `JavaScript` | [📁 Source Code](https://github.com/Manish-Kumar-Gupta96/brandoradm.com)<br>[🌐 Live Demo](https://brandoradm.com/) |
-| 🏡 **Atelier — Interior Design Studio** | ✦ Contemporary luxury interior architecture & decor platform<br>✦ Interactive project filter gallery, client testimonials & consultation booking<br>✦ Fluid GSAP & AOS scroll reveals, 100% responsive<br>`React 19` • `TypeScript` • `Vite 7` • `GSAP` • `Bootstrap 5` | [📁 Source Code](https://github.com/Manish-Kumar-Gupta96/interior-design-studio)<br>[🌐 Live Demo](https://manish-kumar-gupta96.github.io/interior-design-studio/) |
-| ✈️ **Travel ERP — Agency Platform** | ✦ Enterprise Travel Management & Booking Portal<br>✦ Multi-tab Search Engine (Tours, 5-Star Hotels, Flights)<br>✦ Day-by-Day Itinerary timeline, Flash Deals & Trip Budget Calculator<br>`React 19` • `Redux Toolkit` • `Framer Motion` • `Vite 7` • `ApexCharts` | [📁 Source Code](https://github.com/Manish-Kumar-Gupta96/travel-agency)<br>[🌐 Live Demo](https://manish-kumar-gupta96.github.io/travel-agency/) |
-| 🏫 **VIC Public School & ERP** | ✦ Complete Institutional School Portal & Cloud ERP<br>✦ Student, Teacher, Parent & Admin Role Switching<br>✦ Attendance tracker, Timetable, Marksheet & Fee payment simulation<br>`HTML5` • `CSS3` • `JavaScript` • `Bootstrap 5` • `PHP` | [📁 Source Code](https://github.com/Manish-Kumar-Gupta96/vic-school-app)<br>[🌐 Live Demo](https://manish-kumar-gupta96.github.io/vic-school-app/) |
-| 🎓 **VIC Coaching & Edu Portal** | ✦ Education management & coaching institute platform<br>✦ Course enrollment, student study resources & announcements<br>✦ Fast, lightweight, and structured for seamless user navigation<br>`HTML5` • `CSS3` • `JavaScript` • `PHP` | [📁 Source Code](https://github.com/Manish-Kumar-Gupta96/VIC-Coaching)<br>[🌐 Live Demo](https://vic-coaching.myfitzone.workers.dev/) |
-| 🛍️ **Aura Luxe — Luxury E-Commerce** | ✦ Enterprise Minimalist Brand Store<br>✦ Custom PHP MVC backend architecture<br>✦ Python AI microservice engine for forecasting & fraud detection<br>`PHP MVC` • `Python AI` • `MySQL` • `TailwindCSS` | [📁 Source Code](https://github.com/Manish-Kumar-Gupta96/e-commerce)<br>[📖 Project Docs](https://github.com/Manish-Kumar-Gupta96/e-commerce#readme) |
-
----
-
-### 📊 GitHub Activity & Statistics
-
-<div align="center">
-
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Manish-Kumar-Gupta96&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5722&icon_color=FF5722&text_color=c9d1d9" alt="Manish's GitHub Stats" width="410" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Kumar-Gupta96&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5722&text_color=c9d1d9" alt="Top Languages" width="370" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manish-Kumar-Gupta96&theme=radical&hide_border=true&background=0D1117&fire=FF5722&ring=FF5722" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-  </table>
-
-</div>
-
----
-
-### 🤝 Let's Connect & Collaborate!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/manish-kumar-gupta-9690dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=guptamanish9690@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/Manish-Kumar-Gupta96" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<p>
+Building digital experiences with thoughtful design, clean code and scalable engineering.
 </p>
 
+<br/>
+
+<a href="https://github.com/Manish-Kumar-Gupta96">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-0B1728?style=for-the-badge&logo=github&logoColor=38BDF8" />
+</a>
+<a href="https://www.linkedin.com/in/manish-kumar-gupta-9690dev">
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:guptamanish9690@gmail.com">
+<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-087EAD?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Manish-Kumar-Gupta96&style=for-the-badge&color=087EAD&label=PROFILE+VISITORS" />
+
+</div>
+
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5,6&height=100&section=footer" width="100%" />
+
+### NAVIGATE MY PORTFOLIO
+
+<a href="#about">ABOUT</a> &nbsp; • &nbsp;
+<a href="#expertise">EXPERTISE</a> &nbsp; • &nbsp;
+<a href="#technology">TECHNOLOGY</a> &nbsp; • &nbsp;
+<a href="#projects">PROJECTS</a> &nbsp; • &nbsp;
+<a href="#github">GITHUB</a> &nbsp; • &nbsp;
+<a href="#contact">CONTACT</a>
+
+</div>
+
+---
+
+<a id="about"></a>
+
+## 01 — ABOUT ME
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+### Turning ideas into digital products.
+
+Hi, I'm **Manish Kumar Gupta**, a Full Stack Web Developer passionate about building modern websites, web applications and business management platforms.
+
+I enjoy working across the complete development lifecycle — from planning user interfaces and designing database structures to building backend systems and integrating APIs.
+
+My approach combines **user-focused design, practical engineering and maintainable code** to create solutions that solve real-world problems.
+
+**What drives my work**
+
+- Building responsive and accessible digital experiences.
+- Developing structured backend applications and REST APIs.
+- Creating business platforms, dashboards and management systems.
+- Designing efficient database architectures.
+- Learning emerging technologies and improving engineering practices.
+
+</td>
+<td width="38%" valign="top">
+
+### DEVELOPER PROFILE
+
+| Profile | Details |
+|:--|:--|
+| **Name** | Manish Kumar Gupta |
+| **Role** | Full Stack Developer |
+| **Location** | Aligarh, India |
+| **Frontend** | React, JavaScript |
+| **Backend** | PHP, Laravel, Python |
+| **Database** | MySQL, PostgreSQL |
+| **Focus** | Web Applications |
+| **Interests** | SaaS, ERP, AI |
+
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/FOCUSED%20ON-WEB%20ENGINEERING-102B50?style=flat-square&logo=code" />
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<a id="expertise"></a>
+
+## 02 — WHAT I DO
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### ◈ FRONTEND
+
+Creating clean, responsive and interactive interfaces.
+
+`HTML5` · `CSS3` · `JavaScript`
+
+`React` · `TypeScript` · `Bootstrap`
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### ◈ BACKEND
+
+Building application logic, secure systems and APIs.
+
+`PHP` · `Laravel` · `Python`
+
+`Node.js` · `REST APIs`
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### ◈ DATABASE
+
+Structuring reliable data systems and application storage.
+
+`MySQL` · `PostgreSQL`
+
+`MongoDB` · `SQL`
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### ◈ BUSINESS SYSTEMS
+
+Management platforms and operational workflows.
+
+`ERP` · `CRM` · `Admin Panels`
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### ◈ E-COMMERCE
+
+Product-focused shopping and commerce experiences.
+
+`Product Catalogs` · `Inventory`
+
+`Commerce Architecture`
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### ◈ WEB OPTIMIZATION
+
+Improving search visibility and user experience.
+
+`Technical SEO` · `GA4`
+
+`Performance` · `Responsive UI`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<a id="technology"></a>
+
+## 03 — TECHNOLOGY STACK
+
+<div align="center">
+
+### Tools behind the products I build
+
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap,tailwind,vite&perline=9" />
+
+**BACKEND & FRAMEWORKS**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs&perline=8" />
+
+**DATABASES**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=8" />
+
+**DEVELOPMENT & DEPLOYMENT**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,cloudflare,vercel&perline=8" />
+
+</div>
+
+<details>
+<summary><b>More tools and areas of experience</b></summary>
+
+<br/>
+
+| Category | Technologies |
+|:--|:--|
+| UI & Animation | GSAP, AOS, Swiper.js, jQuery UI |
+| State Management | Redux Toolkit |
+| API Development | REST API, JSON |
+| Analytics | Google Analytics 4, Google Tag Manager |
+| Search | Google Search Console, Technical SEO |
+| Workflow | Git, GitHub, Postman |
+| Design & UX | Responsive Design, UI/UX Principles |
+
+</details>
+
+---
+
+<a id="projects"></a>
+
+## 04 — SELECTED PROJECTS
+
+<div align="center">
+
+### From concepts to functional digital experiences.
+
+A selection of projects demonstrating my work across web development, business platforms, e-commerce and interactive interfaces.
+
+</div>
+
+### FEATURED WORK
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=105&text=NEXUSAI&fontSize=30&fontColor=FFFFFF&color=0:101B39,100:087EAD" width="100%" />
+
+**01 / MULTIMODAL AI STUDIO**
+
+An AI-focused studio and developer workspace concept featuring intelligent tools and interactive interfaces.
+
+**Highlights**
+- Neural Code Assistant concept
+- 4K image studio interface
+- Voice cloning experience
+- Developer API telemetry
+
+`HTML` `CSS` `JavaScript` `Bootstrap 5` `Cloudflare Workers`
+
+[↗ Live Demo](https://manish-kumar-gupta96.github.io/nexus-ai/) · [Source Code](https://github.com/Manish-Kumar-Gupta96/nexus-ai)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=105&text=BRANDORA%20DM&fontSize=30&fontColor=FFFFFF&color=0:101B39,100:087EAD" width="100%" />
+
+**02 / DIGITAL AGENCY PLATFORM**
+
+A professional agency website designed to showcase digital services, present work and generate business inquiries.
+
+**Highlights**
+- Service presentation
+- Case study showcase
+- Lead generation experience
+- Responsive website architecture
+
+`Laravel` `PHP` `Bootstrap 5` `JavaScript` `Cloudflare`
+
+[↗ Live Website](https://brandoradm.com/) · [Source Code](https://github.com/Manish-Kumar-Gupta96/brandoradm.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=105&text=ATELIER&fontSize=30&fontColor=FFFFFF&color=0:101B39,100:087EAD" width="100%" />
+
+**03 / LUXURY INTERIOR DESIGN**
+
+A premium interior design studio website built around elegant presentation and interactive project discovery.
+
+**Highlights**
+- Interactive project gallery
+- Project filtering
+- Testimonials
+- Consultation booking experience
+
+`React 19` `TypeScript` `Vite` `GSAP` `Bootstrap 5`
+
+[↗ Live Demo](https://manish-kumar-gupta96.github.io/interior-design-studio/) · [Source Code](https://github.com/Manish-Kumar-Gupta96/interior-design-studio)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=105&text=TRAVEL%20ERP&fontSize=30&fontColor=FFFFFF&color=0:101B39,100:087EAD" width="100%" />
+
+**04 / TRAVEL MANAGEMENT**
+
+A travel management frontend bringing travel discovery, service exploration and planning tools together.
+
+**Highlights**
+- Tours, hotels and flights search
+- Travel itineraries
+- Deals and offers
+- Budget calculator
+
+`React 19` `Redux Toolkit` `Vite` `Framer Motion` `ApexCharts`
+
+[↗ Live Demo](https://manish-kumar-gupta96.github.io/travel-agency/) · [Source Code](https://github.com/Manish-Kumar-Gupta96/travel-agency)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=105&text=AURA%20LUXE&fontSize=30&fontColor=FFFFFF&color=0:101B39,100:087EAD" width="100%" />
+
+**05 / AI-ENHANCED E-COMMERCE**
+
+An e-commerce architecture concept combining commerce functionality with intelligent backend capabilities.
+
+**Highlights**
+- PHP MVC architecture
+- MySQL database integration
+- Python AI microservice
+- Forecasting and fraud detection concepts
+
+`PHP MVC` `Python` `MySQL` `Tailwind CSS`
+
+[↗ Source Code & Documentation](https://github.com/Manish-Kumar-Gupta96/e-commerce)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=105&text=FITZONE&fontSize=30&fontColor=FFFFFF&color=0:101B39,100:087EAD" width="100%" />
+
+**06 / FITNESS WEBSITE**
+
+A gym and fitness website designed to present membership options, workout programs and fitness services.
+
+**Highlights**
+- BMI calculator
+- Workout schedules
+- Membership pricing
+- Animated interface
+
+`HTML` `CSS` `JavaScript` `GSAP` `Bootstrap 5`
+
+[↗ Live Demo](https://fitzone-fit.myfitzone.workers.dev/) · [Source Code](https://github.com/Manish-Kumar-Gupta96/GYM-Fitness)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=105&text=VIC%20SCHOOL%20ERP&fontSize=26&fontColor=FFFFFF&color=0:101B39,100:087EAD" width="100%" />
+
+**07 / SCHOOL MANAGEMENT**
+
+A multi-role school management interface covering academic and administrative workflows.
+
+**Highlights**
+- Attendance management
+- Timetable interface
+- Marksheets
+- Fee management simulation
+
+`HTML` `CSS` `JavaScript` `Bootstrap 5` `PHP`
+
+[↗ Live Demo](https://manish-kumar-gupta96.github.io/vic-school-app/) · [Source Code](https://github.com/Manish-Kumar-Gupta96/vic-school-app)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=105&text=VIC%20COACHING&fontSize=27&fontColor=FFFFFF&color=0:101B39,100:087EAD" width="100%" />
+
+**08 / EDUCATION PORTAL**
+
+An education portal experience for course discovery, student resources and announcements.
+
+**Highlights**
+- Course enrollment experience
+- Student resources
+- Announcements
+- Responsive portal interface
+
+`HTML` `CSS` `JavaScript` `PHP`
+
+[↗ Live Demo](https://vic-coaching.myfitzone.workers.dev/) · [Source Code](https://github.com/Manish-Kumar-Gupta96/VIC-Coaching)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=105&text=BEENA%20JAIVIK%20KHAD&fontSize=29&fontColor=FFFFFF&color=0:101B39,100:087EAD" width="100%" />
+
+**09 / AGRICULTURE & COMMERCIAL WEBSITE**
+
+A commercial website for organic fertilizer and agriculture products, focused on product presentation and customer inquiries.
+
+**Highlights**
+- Dynamic product showcase
+- Farmer inquiry capture
+- Mobile-first experience
+- Local SEO and analytics integration
+
+`HTML5` `CSS3` `JavaScript` `Bootstrap 5` `SEO` `GA4`
+
+<div align="center">
+
+[↗ Visit Live Website](https://beenajaivikkhad.in/)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/Manish-Kumar-Gupta96?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-0B1728?style=for-the-badge&logo=github&logoColor=38BDF8" />
+</a>
+
+</div>
+
+---
+
+<a id="github"></a>
+
+## 05 — GITHUB PERFORMANCE
+
+<div align="center">
+
+### My open-source activity and development journey
+
+<img src="https://github-readme-stats.vercel.app/api?username=Manish-Kumar-Gupta96&show_icons=true&hide_border=true&bg_color=0B1424&title_color=38BDF8&text_color=D7E2F0&icon_color=38BDF8&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Kumar-Gupta96&layout=compact&hide_border=true&bg_color=0B1424&title_color=38BDF8&text_color=D7E2F0" width="41%" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Manish-Kumar-Gupta96&hide_border=true&background=0B1424&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=D7E2F0&dates=94A3B8" width="75%" />
+
+<br/><br/>
+
+### Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish-Kumar-Gupta96&bg_color=0B1424&color=D7E2F0&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 06 — WHAT I'M EXPLORING
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**SCALABLE APPLICATIONS**
+
+Designing modular applications with maintainable architecture and reusable components.
+
+**API & BACKEND ENGINEERING**
+
+Building reliable server-side workflows, API integrations and database-driven applications.
+
+</td>
+<td width="50%" valign="top">
+
+**CLOUD & DEPLOYMENT**
+
+Exploring cloud platforms, deployment workflows and production environments.
+
+**AI-POWERED EXPERIENCES**
+
+Exploring practical ways to integrate intelligent capabilities into web applications.
+
+</td>
+</tr>
+</table>
+
+---
+
+<a id="contact"></a>
+
+## 07 — LET'S CONNECT
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=150&section=header&text=HAVE%20A%20PROJECT%20IN%20MIND%3F&fontSize=27&fontColor=FFFFFF&color=0:07111F,100:087EAD&desc=Let's%20create%20something%20meaningful%20together.&descSize=14&descAlignY=72" width="100%" />
+
+I'm open to connecting with developers, recruiters, teams and businesses for opportunities and meaningful collaborations.
+
+<br/><br/>
+
+<a href="mailto:guptamanish9690@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/manish-kumar-gupta-9690dev">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Manish-Kumar-Gupta96">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Manish Kumar Gupta**
+
+Full Stack Web Developer · Aligarh, Uttar Pradesh, India
+
+✉️ [guptamanish9690@gmail.com](mailto:guptamanish9690@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:087EAD,50:102B50,100:050B18&height=120&section=footer" width="100%" />
+
+<sub>Designed with passion, built with code. © 2026 Manish Kumar Gupta.</sub>
+
 </div>
